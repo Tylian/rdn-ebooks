@@ -1,6 +1,6 @@
 {
 	"account": "rdn_ebooks@rainbowdash.net",
-	"password": "whattheactualfuck",
+	"password": "",
 	"crawlTimeline": false,
 	"refreshRate": 60,
 	"cooldown": 900
