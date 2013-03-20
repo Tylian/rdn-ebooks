@@ -1,0 +1,7 @@
+{
+	"account": "rdn_ebooks@rainbowdash.net",
+	"password": "whattheactualfuck",
+	"crawlTimeline": false,
+	"refreshRate": 60,
+	"cooldown": 900
+}
